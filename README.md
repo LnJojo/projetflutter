@@ -7,7 +7,7 @@ GameSpot est une application mobile réalisée avec Flutter, visant à recréer 
 ## Fonctionnalités
 
 - **Inscription et Connexion** : Les utilisateurs peuvent créer un compte, se connecter et accéder à toutes les fonctionnalités de l'application.
-![Accueil](https://github.com/user-attachments/assets/a215e269-c957-4d6b-b484-d554075577e2)
+![Accueil](https://github.com/user-attachments/assets/bed1f627-b72a-45a3-be2b-a6b4f059c8b8)
   
 - **Page d'Accueil** : Présente les jeux vidéo les plus populaires du moment.
 
